@@ -1,0 +1,27 @@
+{
+  "name": "google-page-speed-insights-nodejs",
+  "description": "Using Google Page Speed Insights with Node.js",
+  "main": "index.js",
+  "authors": [
+    "anilhan hasceviz <ahscvz@gmail.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "nodejs",
+    "google-api",
+    "google-page-speed-api"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./src/assets/lib/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "fontawesome": "^5.0.13"
+  }
+}
